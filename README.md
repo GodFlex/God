@@ -13,7 +13,6 @@ Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
    <a href="https://instagram.com/godflex1" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
  <a href="https://open.spotify.com/user/1g3wes29wibjbshr5xz8f8181" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/139783252079542272)](https://discord.com/users/139783252079542272)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/680286865387290649)](https://discord.com/users/680286865387290649)
 
 </p>
