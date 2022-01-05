@@ -2,7 +2,7 @@
 
 🐱‍👤 Tekrardan herkese selam!
 - Kendimden biraz bahsedeyim. Ben [God'](https://github.com/godflex) 20 yaşındayım,
-Bana bu yolda [rufflws](https://github.com/rufflws)'a teşekkürlerimi sunuyorum :)
+Bana bu yolda yardım eden [rufflws](https://github.com/rufflws)'a teşekkürlerimi sunuyorum :)
 Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
 
