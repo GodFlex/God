@@ -6,7 +6,7 @@ Bana bu yolda yardım eden [rufflws](https://github.com/rufflws)'a teşekkürler
 Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
 
-<img src="https://komarev.com/ghpvc/?username=rufflws&label=Ziyaretçi%20Sayısı&color=552b75" alt="godflex" />
+<img src="https://komarev.com/ghpvc/?username=godflex&label=Ziyaretçi%20Sayısı&color=552b75" alt="godflex" />
 
 <h3> Sosyal medya hesaplarım!</h3>
 <p align="left">
